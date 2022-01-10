@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development, AI & Machine learning
 - 🌱 I’m currently learning Cloud Native Applications and python
 - 💞️ I’m looking to collaborate on .NET projects
-- 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/ololade-olanrewaju-11987915b/ Twitter: @LoladedotNet
+- 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/ololade-olanrewaju-11987915b/ Twitter: @Ms_Lolade
 
 <!---
 lolade-dev/lolade-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
