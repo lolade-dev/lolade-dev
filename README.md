@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on .NET projects
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/ololade-olanrewaju-11987915b/ Twitter: @Ms_Lolade
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lolade-dev)](https://git.io/streak-stats)
 <!---
 lolade-dev/lolade-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
